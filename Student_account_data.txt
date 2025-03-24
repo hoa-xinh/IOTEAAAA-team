@@ -1,4 +1,5 @@
-Minh 123 Male
-Thinh 456 Male
-Duc 567 Male
-Nam 789 Male
+Minh minh@example.com ST001
+Thinh thinh@example.com ST002
+Duc duc@example.com ST003
+Nam nam@example.com ST004
+John john@example.com ST005
